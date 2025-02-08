@@ -46,35 +46,27 @@
         "slider":[
             {
                 "id" : 1,
-                "src" : "./public/images/slider/slide1.jpeg"
+                "src" : "./public/images/slider/slide1.webp"
             },
             {
                 "id": 2,
-                "src" : "./public/images/slider/slide2.jpeg"
+                "src" : "./public/images/slider/slide2.webp"
             },
             {
                 "id":3,
-                "src": "./public/images/slider/slide3.jpeg"
+                "src": "./public/images/slider/slide3.webp"
             },
             {
                 "id" : 4,
-                "src": "./public/images/slider/slide4.jpeg"
+                "src": "./public/images/slider/slide4.webp"
             },
             {
                 "id" : 5,
-                "src": "./public/images/slider/slide5.jpeg"
+                "src": "./public/images/slider/slide5.webp"
             },
             {
                 "id" : 6,
-                "src": "./public/images/slider/slide6.jpeg"
-            },
-            {
-                "id" : 7,
-                "src": "./public/images/slider/slide7.jpeg"
-            },
-            {
-                "id" : 8,
-                "src": "./public/images/slider/slide8.jpeg"
+                "src": "./public/images/slider/slide6.webp"
             }
         ],
         "heading":[
@@ -128,33 +120,33 @@
         "series":[
             {
                 "id": 1,
-                "name": "بازنده",
-                "src": "./public/images/best filimo/series/bazande/bazande.webp"
+                "name": "تاسیان",
+                "src": "./public/images/best filimo/series/tasian/pic.webp"
             },
             {
                 "id": 2,
                 "name": "جوکر",
-                "src": "./public/images/best filimo/series/joker/joker.webp"
+                "src": "./public/images/best filimo/series/joker/pic.webp"
             },
             {
                 "id":3 ,
                 "name": "َشام ایرانی",
-                "src": "./public/images/best filimo/series/shamirani/shamirani.webp"
+                "src": "./public/images/best filimo/series/shamirani/pic.webp"
             },
             {
                 "id": 4,
-                "name": "سرگیجه",
-                "src": "./public/images/best filimo/series/sargije/sargije.webp"
+                "name": "زخم کاری",
+                "src": "./public/images/best filimo/series/zakhm/pic.webp"
             },
             {
                 "id": 5,
-                "name": "لالایی",
-                "src": "./public/images/best filimo/series/lalayi/lalayi.webp"
+                "name": "اکنون",
+                "src": "./public/images/best filimo/series/aknon/pic.webp"
             },
             {
                 "id": 6,
-                "name": "کارمانی",
-                "src": "./public/images/best filimo/series/karmani/karmani.webp"
+                "name": "ممیزی",
+                "src": "./public/images/best filimo/series/momayezi/pic.webp"
             }
             
         ],
@@ -178,14 +170,14 @@
         ],
         "bazande":{
             "id": 1,
-            "src": "./public/images/best filimo/series/bazande/bazandeposter.webp",
-            "title": "بازنده",
-            "director": "کارگردان: امین حسین پور",
+            "src": "./public/images/best filimo/series/tasian/cover.webp",
+            "title": "تاسیان",
+            "director": "کارگردان: تینا پاکروان",
             "types": {
-                "firstType": "جنایی",
-                "secondType": "رازآلود"
+                "firstType": "درام",
+                "secondType": "عاشقانه"
             },
-            "explanation": "خانواده کودک گم شده بدون اطلاع کارآگاه کیانی برای تبادل کودک و پول سر قرار رفتند و آدم ربا پول ها را از چنگ شان درآورد. ",
+            "explanation": "با ورود شیرین به چاپخانه، امیر متوجه می شود نقاشی هایی که عاشقشان بوده، تصاویری از خودِ نقاش است. رویای او جان ",
             "btn": {
                 "id": 1,
                 "name": "خرید اشتراک و تماشا",
@@ -195,7 +187,7 @@
         },
         "ShamIrani":{
             "id": 1,
-            "src": "./public/images/best filimo/series/shamirani/poster.webp",
+            "src": "./public/images/best filimo/series/shamirani/cover.webp",
             "title": "شام ایرانی",
             "director": "کارگردان: سعید ابوطالب",
             "types": {
@@ -212,7 +204,7 @@
         },
         "Joker" :{
             "id": 3,
-            "src": "./public/images/best filimo/series/joker/jokerposter.webp",
+            "src": "./public/images/best filimo/series/joker/cover.webp",
             "title": "جوکر 2",
             "director": "کارگردان: احسان علیخانی",
             "types": {
@@ -230,14 +222,14 @@
         "Sargije":
         {
             "id": 4,
-            "src": "./public/images/best filimo/series/sargije/poster.webp",
-            "title": "سرگیجه",
-            "director": "کارگردان: محمد حاتمی",
+            "src": "./public/images/best filimo/series/zkhm/cover.webp",
+            "title": "زخم کاری",
+            "director": "کارگردان:  محمدحسین مهدویان",
             "types": {
-                "firstType": "ریلیتی شو",
-                "secondType": ""
+                "firstType": "درام",
+                "secondType": "رازالود"
             },
-            "explanation": "با یه گروه دوست داشتنی دوباره برگشتیم. توی این قسمت قراره محکوم رو بفرستیم کاپوت سواری؛ با چاشنی حرکات نمایشی. ",
+            "explanation": "مالک که حال روحی مساعدی ندارد به سراغ سیما می رود. سیما در حال تدارک جشنی است تا مالک را غافلگیر کند.",
             "btn": {
                 "id": 1,
                 "name": "خرید اشتراک و تماشا",
@@ -247,14 +239,14 @@
         },
         "Lalayi":{
             "id": 5,
-            "src": "./public/images/best filimo/series/lalayi/poster.webp",
-            "title": "لالایی",
-            "director": "کارگردان: احمد درویشعلی پور",
+            "src": "./public/images/best filimo/series/aknon/cover.webp",
+            "title": "اکنون",
+            "director": "کارگردان: محمدرضا رضائیان",
             "types": {
-                "firstType": "خانوادگی",
+                "firstType": "تاک شو",
                 "secondType": ""
             },
-            "explanation": "با حضور استادِ اوس پاداش، استاد جان و راهکارهایش، اتفاقات رنگ و بوی دیگری می گیرد...",
+            "explanation": "در یازدهمین قسمت از اکنون، بابک کریمی مهمان این برنامه است. او در فیلم های بسیاری به خلق کاراکترهای تاثیرگذار پرداخته و اکنون با سروش",
             "btn": {
                 "id": 1,
                 "name": "خرید اشتراک و تماشا",
@@ -264,14 +256,14 @@
         },
         "Karmani" :{
             "id": 6,
-            "src": "./public/images/best filimo/series/karmani/poster.webp",
-            "title": "کارمانی",
-            "director": "کارگردان: محمدرضا رضائیان",
+            "src": "./public/images/best filimo/series/momayezi/cover.webp",
+            "title": "ممیزی",
+            "director": "کارگردان:  حامد جوادزاده",
             "types": {
-                "firstType": "ریلیتی شو",
+                "firstType": "کمدی",
                 "secondType": ""
             },
-            "explanation": "تصور کنید سرمایه ی شما، مثل آجر های یه خونه، کنار هم قرار می گیرن و بنای یه کسب وکار رو می سازن. توی کارمانی، هر سرمایه",
+            "explanation": "ما می خواهیم این سرزمین رو به سرزمین فرصت ها تبدیل کنیم.",
             "btn": {
                 "id": 1,
                 "name": "خرید اشتراک و تماشا",
